@@ -148,5 +148,5 @@ Meus projetos aplicam conhecimentos de **Análise de Dados, Business Intelligenc
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Portfólio de Projetos</h3>
-      <a href="https://alanptrc-cyber.github.io/portfolio_projetos/"><b>Acessar meu portfólio →</b></a>
+      <a href="https://alanpatricio-silva.github.io/portfolio_projetos/"><b>Acessar meu portfólio →</b></a>
      
