@@ -5,7 +5,7 @@
 <h1 align="center">Alan Patricio</h1>
 
 <p align="center">
-  <b>Analista de Dados &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; Melhoria Contínua</b>
+  <b>Analista de Dados &nbsp;|&nbsp; Analista de BI </b>
 </p>
 
 ---
@@ -117,11 +117,11 @@ Tenho uma visão de negócio construída a partir da **experiência em operaçõ
 
   ## 🎓 Formação Acadêmica e Complementar
 
-  - Formação em Análise de Dados — Comunidade DS | 2026
+  - Formação em Análise de Dados — COMUNIDADE DS | 2026
 
-  - Pós-graduação em Engenharia da Qualidade e Melhoria de Processos UMC | 2025
+  - Pós-graduação em Engenharia da Qualidade e Melhoria de Processos - UMC | 2025
 
-  - Tecnologia em Fabricação Mecânica FATEC | 2019
+  - Tecnologia em Fabricação Mecânica - FATEC | 2019
 
 
 ---
