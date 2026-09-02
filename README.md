@@ -88,8 +88,8 @@ Tenho uma visão de negócio construída a partir da **experiência em operaçõ
 <td width="25%" valign="top" align="left">
 
 #### 🐍 Programação & Banco de Dados  
-- SQL para extração e manipulação de dados  
-- Python para análise e tratamento de dados  
+- SQL 
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
