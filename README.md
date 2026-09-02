@@ -104,7 +104,8 @@ Tenho uma visão de negócio construída a partir da **experiência em operaçõ
 - Tratamento de dados inconsistentes  
 - Preparação e validação de bases  
 - Modelagem de dados  
-- GitHub | Streamlit  
+- Git | GitHub
+- Streamlit  
 
 </td>
 </tr>
