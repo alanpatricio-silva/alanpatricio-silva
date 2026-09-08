@@ -137,7 +137,7 @@ Meus projetos aplicam conhecimentos de **Análise de Dados, Business Intelligenc
       <h3>🏢 Cury Company — Análise de Dados</h3>
       <p>Projeto de análise de dados desenvolvido utilizando Python, com foco na exploração, tratamento, análise e visualização de dados.</p>
       <p>🔧 <i>Python | Pandas | NumPy | Streamlit</i></p>
-      <a href="https://alanptrc-projects-curycompany.streamlit.app/"><b>Visualizar Projeto →</b></a>
+      <a href="https://alanpatricio-silva-projects-curycompany.streamlit.app/"><b>Visualizar Projeto →</b></a>
     </td>
   </tr>
 </table>
