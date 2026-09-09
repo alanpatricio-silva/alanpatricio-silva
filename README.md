@@ -134,10 +134,21 @@ Meus projetos aplicam conhecimentos de **Análise de Dados, Business Intelligenc
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Cury Company — Análise de Dados</h3>
-      <p>Projeto de análise de dados desenvolvido utilizando Python, com foco na exploração, tratamento, análise e visualização de dados.</p>
+      <h3>🏢 Projeto de Análise para Marketplace | Cury Company</h3>
+      <p>Projeto de análise de dados desenvolvido para a Cury Company, uma empresa de tecnologia com modelo de negócio Marketplace que conecta restaurantes, entregadores e clientes. A análise teve como objetivo avaliar o desempenho do negócio por meio de dados de pedidos, restaurantes e entregadores, identificando padrões, tendências e oportunidades de melhoria. Como solução, foi desenvolvido um painel estratégico interativo em Python e Streamlit, reunindo os principais KPIs do negócio e permitindo análises por cidade, tráfego, condições climáticas e desempenho das entregas. O projeto também gerou insights sobre a evolução dos pedidos e os fatores que influenciam o tempo de entrega.</p>
       <p>🔧 <i>Python | Pandas | NumPy | Streamlit</i></p>
       <a href="https://alanpatricio-silva-projects-curycompany.streamlit.app/"><b>Visualizar Projeto →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Projeto de Business Intelligence para E-commerce | Tudo Aqui</h3>
+      <p>Projeto de Business Intelligence desenvolvido para a Tudo Aqui, empresa brasileira de e-commerce que buscava adotar uma cultura orientada por dados para apoiar decisões estratégicas. A análise transformou dados operacionais em informações gerenciais por meio do tratamento e modelagem dos dados, criação de métricas em DAX e desenvolvimento de seis dashboards no Power BI, abrangendo produtos, pagamentos, pedidos, avaliações, vendedores e vendas. Entre os principais insights identificados estão a concentração do catálogo em determinadas categorias, a predominância do cartão de crédito nas transações e a concentração regional das vendas, evidenciando oportunidades para expansão do mix de produtos, diversificação e expansão geográfica.</p>
+      <p>🔧 <i>Power BI | Power Query | DAX | Modelagem Dimensional | Inteligência Temporal | Análise de Pareto (80/20) | Análise de Cohort</i></p>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiNmE1YjMwOGItODcyNy00NzFmLWFkZWYtYzc1ZWMxNDBkNmUyIiwidCI6ImU4MjYzNjAxLWIzNTktNGJiMi04ODQwLTZjMTI2YzViNGFiZCJ9"><b>Visualizar Projeto →</b></a>
     </td>
   </tr>
 </table>
