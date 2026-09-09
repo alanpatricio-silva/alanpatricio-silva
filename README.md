@@ -56,7 +56,7 @@ Tenho uma visão de negócio construída a partir da **experiência em operaçõ
 
 ---
 
-
+<!--
 ## 🛠️ Habilidades
 
 <div align="center">
@@ -115,6 +115,7 @@ Tenho uma visão de negócio construída a partir da **experiência em operaçõ
 
 
 ---
+-->
 
   ## 🎓 Formação Acadêmica e Complementar
 
